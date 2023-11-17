@@ -7,3 +7,6 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
+
+Untuk Link Railway nya 
+unit-test-production.up.railway.app
