@@ -8,5 +8,8 @@ Tugas kalian disini adalah:
 
 Good luck!
 
+Untuk Link Railway nya 
+unit-test-production.up.railway.app
+
 untuk link railway
 "https://unit-test-production.up.railway.app"
